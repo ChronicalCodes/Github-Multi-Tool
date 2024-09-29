@@ -3,7 +3,7 @@
 - Leave a star if you like it!
 
 # About
-This program allows you to:
+**This program allows you to:**
   - Check names in a file
   - Check a signle name 
   - Generate random names and checking them
