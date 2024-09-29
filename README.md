@@ -1,6 +1,6 @@
 # Github-Multi-Tool
--Github MultiTool 
--Leave a star if you like it!
+- Github MultiTool 
+- Leave a star if you like it!
 
 # About
 This program allows you to:
