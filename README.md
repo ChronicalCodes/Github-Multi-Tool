@@ -1,5 +1,5 @@
 # Github-Multi-Tool
-- Github MultiTool 
+- Github Multi-Tool 
 - Leave a star if you like it!
 
 # About
